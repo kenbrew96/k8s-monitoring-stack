@@ -5,6 +5,7 @@
 k8s-monitoring-stack/
 ├── prometheus-values.yaml
 ├── grafana-values.yaml
+├── README.md 
 ```
 
 ### 📄 `prometheus-values.yaml`
